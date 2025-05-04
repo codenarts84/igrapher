@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "flowbite": "^2.3.0",
+    "npm-run-all": "^4.1.5"
+  },
+  "scripts": {
+    "start:back-end": "cd backend && source .venv/bin/activate && python manage.py runserver",
+    "start:front-end": "cd frontend && npm start",
+    "start": "run-p start:*"
+  }
+}

@@ -1,0 +1,37 @@
+version: '3.11'
+
+services:
+  backend:
+    volumes:
+      - static:/static
+    env_file:
+      - .env
+    build:
+      # in the context of the backend folder
+      context: ./backend
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      # in the context of the frontend folder
+      context: ./frontend
+    volumes:
+      - frontend:/app/build
+
+  nginx:
+    build:
+      # in the context of the nginx folder
+      context: ./nginx
+    volumes:
+      - static:/static
+      - frontend:/var/www/frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+      - frontend
+
+volumes:
+  static:
+  frontend:

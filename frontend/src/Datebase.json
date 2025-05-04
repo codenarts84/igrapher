@@ -1,0 +1,25 @@
+{
+  "Navbar": {
+    "navbarItem": [
+      {
+        "name": ["Config"],
+        "icon": "fi-rr-user-shield"
+      },
+      {
+        "name": ["My graphs"],
+        "href": "/newgraph",
+        "icon": "fi-rr-mountains"
+      },
+      {
+        "name": ["Drawing"],
+        "href": "/graphdrawing",
+        "icon": "fi-rr-search"
+      }
+    ],
+
+    "Hero": {
+      "hello": ["Welcome to use iGrapher.", "欢迎使用iGrapher。"],
+      "word": ["let's create beauty.", "让我们创造美好。"]
+    }
+  }
+}

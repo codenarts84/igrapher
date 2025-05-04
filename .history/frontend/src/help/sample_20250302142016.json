@@ -1,0 +1,1148 @@
+{
+    "nodes": {
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 33,
+                "height": 1.91,
+                "name": "Russell Westbrook",
+                "number": 0,
+                "weight": 91
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 36,
+                "height": 2.06,
+                "name": "LeBron James",
+                "number": 6,
+                "weight": 113
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 27,
+                "height": 2.13,
+                "name": "Joel Embiid",
+                "number": 21,
+                "weight": 127
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 29,
+                "height": 2.03,
+                "name": "Tobias Harris",
+                "number": 22,
+                "weight": 100
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Frank Vogel"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 13": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Taylor Jenkins"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 14": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Jason Kidd"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 15": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Steve Nash"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 16": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Mike Budenholzer"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 17": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Doc Rivers"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 18": {
+            "labels": [
+                "COACH"
+            ],
+            "properties": {
+                "name": "Stan Van Gundy"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "LA Lakers"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 28,
+                "height": 2.08,
+                "name": "Anthony Davis",
+                "number": 23,
+                "weight": 115
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "Memphis Grizzlies"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "Dallas Mavericks"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "Brooklyn Nets"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "Milwaukee Bucks"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24": {
+            "labels": [
+                "TEAM"
+            ],
+            "properties": {
+                "name": "Philadelphia 76ers"
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 22,
+                "height": 1.91,
+                "name": "Ja Morant",
+                "number": 12,
+                "weight": 79
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 22,
+                "height": 2.01,
+                "name": "Luka Doncic",
+                "number": 77,
+                "weight": 104
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 26,
+                "height": 2.21,
+                "name": "Kristaps Porzingis",
+                "number": 6,
+                "weight": 109
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 33,
+                "height": 2.08,
+                "name": "Kevin Durant",
+                "number": 7,
+                "weight": 109
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 32,
+                "height": 1.96,
+                "name": "James Harden",
+                "number": 13,
+                "weight": 100
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 26,
+                "height": 2.11,
+                "name": "Giannis Antetokounmpo",
+                "number": 34,
+                "weight": 110
+            }
+        },
+        "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9": {
+            "labels": [
+                "PLAYER"
+            ],
+            "properties": {
+                "age": 30,
+                "height": 2.01,
+                "name": "Khris Middleton",
+                "number": 22,
+                "weight": 100
+            }
+        }
+    },
+    "relationships": {
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 13": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 14": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 15": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 16": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 17": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 13",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 18": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 14",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 14",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 15",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 15",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 16",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 16",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 17",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 25": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 17",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10"
+            ],
+            "properties": {},
+            "type": "COACHES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 26": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "salary": 40000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 27": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "salary": 33000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 28": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "salary": 38000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 29": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "salary": 8000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 30": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "salary": 50000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 31": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "salary": 26000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 32": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "salary": 45000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 33": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "salary": 4200000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 34": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "salary": 47000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 35": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "salary": 43000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 36": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "salary": 4000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 37": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "salary": 4000000
+            },
+            "type": "PLAYS_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 38": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 12",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 39": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 13",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 40": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 14",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 41": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 15",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 42": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 16",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 43": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 17",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {},
+            "type": "COACHES_FOR"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 44": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 6,
+                "minutes": 38,
+                "points": 32,
+                "rebounds": 6,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 45": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 12,
+                "minutes": 29,
+                "points": 16,
+                "rebounds": 11,
+                "turnovers": 16
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 46": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 2,
+                "minutes": 36,
+                "points": 27,
+                "rebounds": 8,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 47": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 43,
+                "points": 42,
+                "rebounds": 8,
+                "turnovers": 4
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 48": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 12,
+                "minutes": 23,
+                "points": 25,
+                "rebounds": 3,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 49": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 10,
+                "minutes": 20,
+                "points": 11,
+                "rebounds": 3,
+                "turnovers": 8
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 50": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 2,
+                "minutes": 30,
+                "points": 22,
+                "rebounds": 8,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 51": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 3,
+                "minutes": 35,
+                "points": 35,
+                "rebounds": 4,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 52": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 3,
+                "minutes": 32,
+                "points": 18,
+                "rebounds": 6,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 53": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 11,
+                "minutes": 26,
+                "points": 26,
+                "rebounds": 13,
+                "turnovers": 6
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 54": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 30,
+                "points": 26,
+                "rebounds": 18,
+                "turnovers": 3
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 55": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 5,
+                "minutes": 43,
+                "points": 45,
+                "rebounds": 8,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 56": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 13,
+                "minutes": 46,
+                "points": 35,
+                "rebounds": 4,
+                "turnovers": 7
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 57": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 2,
+                "minutes": 34,
+                "points": 37,
+                "rebounds": 12,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 58": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 20"
+            ],
+            "properties": {
+                "assists": 13,
+                "minutes": 46,
+                "points": 35,
+                "rebounds": 4,
+                "turnovers": 7
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 59": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 3",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 13,
+                "minutes": 26,
+                "points": 32,
+                "rebounds": 6,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 60": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 44,
+                "points": 23,
+                "rebounds": 13,
+                "turnovers": 8
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 61": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "assists": 2,
+                "minutes": 24,
+                "points": 16,
+                "rebounds": 12,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 62": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 16,
+                "minutes": 33,
+                "points": 26,
+                "rebounds": 18,
+                "turnovers": 5
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 63": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 3,
+                "minutes": 46,
+                "points": 35,
+                "rebounds": 4,
+                "turnovers": 3
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 64": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 6,
+                "minutes": 33,
+                "points": 28,
+                "rebounds": 3,
+                "turnovers": 3
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 65": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 4,
+                "minutes": 24,
+                "points": 18,
+                "rebounds": 11,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 66": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 25,
+                "points": 29,
+                "rebounds": 22,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 67": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 13,
+                "minutes": 34,
+                "points": 18,
+                "rebounds": 4,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 68": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 5,
+                "minutes": 45,
+                "points": 36,
+                "rebounds": 12,
+                "turnovers": 3
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 69": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 5,
+                "minutes": 35,
+                "points": 22,
+                "rebounds": 6,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 70": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "assists": 3,
+                "minutes": 33,
+                "points": 23,
+                "rebounds": 10,
+                "turnovers": 3
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 71": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 23"
+            ],
+            "properties": {
+                "assists": 4,
+                "minutes": 38,
+                "points": 23,
+                "rebounds": 5,
+                "turnovers": 1
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 72": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 6,
+                "minutes": 29,
+                "points": 28,
+                "rebounds": 8,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 73": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 21"
+            ],
+            "properties": {
+                "assists": 10,
+                "minutes": 35,
+                "points": 17,
+                "rebounds": 8,
+                "turnovers": 5
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 74": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 4",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 6,
+                "minutes": 37,
+                "points": 35,
+                "rebounds": 11,
+                "turnovers": 4
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 75": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 5",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 22"
+            ],
+            "properties": {
+                "assists": 4,
+                "minutes": 34,
+                "points": 27,
+                "rebounds": 8,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 76": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 1",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 12,
+                "minutes": 32,
+                "points": 27,
+                "rebounds": 10,
+                "turnovers": 4
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 77": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 0",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 9,
+                "minutes": 25,
+                "points": 19,
+                "rebounds": 14,
+                "turnovers": 5
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 78": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 2",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 24"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 32,
+                "points": 22,
+                "rebounds": 12,
+                "turnovers": 2
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 79": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 10",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 7,
+                "minutes": 36,
+                "points": 36,
+                "rebounds": 12,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 8": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 80": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 11",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 19"
+            ],
+            "properties": {
+                "assists": 1,
+                "minutes": 32,
+                "points": 22,
+                "rebounds": 7,
+                "turnovers": 0
+            },
+            "type": "PLAYED_AGAINST"
+        },
+        "5:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 9": {
+            "node_id": [
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 7",
+                "4:a87a5a37-07fa-4f43-8010-26a2c9ded89f: 6"
+            ],
+            "properties": {},
+            "type": "TEAMMATES"
+        }
+    }
+}

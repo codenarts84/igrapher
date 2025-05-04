@@ -1,0 +1,4 @@
+{
+  "labels": ["PLAYER", "COACH", "TEAM"],
+  "relationship_types": ["TEAMMATES", "COACHES", "PLAYS_FOR", "COACHES_FOR", "PLAYED_AGAINST"]
+}
