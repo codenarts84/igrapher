@@ -22,16 +22,7 @@ const NodeQueryPanel = () => {
           </h1>
           <p className='text-white my-[15px] text-[17px] animate__animated animate__fadeInUp'>
             Welcome to this app! This is a demo version, and some features are unavailable because
-            there is no server. The full source code line is below. You can
-            explore
-            <a
-              target='_blank'
-              rel='noopener noreferrer'
-              className='mx-1 hover:mx-2 transition-all underline hover:capitalize hover:font-[600] duration-500 ease-in-out'
-              href='https://xianzhe.site/project'
-            >
-              more projects
-            </a>
+            there is no server. The full source code line is below.
           </p>
           <p className='text-white my-[15px] text-[17px] animate__animated animate__fadeInUp'>
             In this project, I was 100% responsible for UI/UX design,
@@ -42,7 +33,7 @@ const NodeQueryPanel = () => {
 
           <div className='flex items-center justify-center mt-10 place-items-center gap-x-24'>
             <a
-              href='https://github.com/Xianzhezhang97/igrapher'
+              href='https://github.com/codenarts84/igrapher'
               target='_blank'
               rel='noopener noreferrer'
               className={`mt-[60px] w-full h-[60px] bg-gray-900 hover:bg-sky-700  flex justify-center items-center animate__animated animate__fadeInUp rounded-full text-3xl   px-10 py-6
