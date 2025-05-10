@@ -44,7 +44,7 @@ const NodeQueryPanel = () => {
             </a>
             <button
               onClick={() => {
-                setOpen(false);
+                setOpen(false)
               }}
               className={`mt-[60px] w-full  h-[60px] bg-sky-900 hover:bg-sky-700  flex justify-center items-center animate__animated animate__fadeInUp rounded-full text-3xl   px-10 py-6
                   font-semibold text-white shadow-sm  hover:text-white focus-visible:outline
