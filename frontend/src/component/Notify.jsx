@@ -21,16 +21,7 @@ const NodeQueryPanel = () => {
             Notification
           </h1>
           <p className='text-white my-[15px] text-[17px] animate__animated animate__fadeInUp'>
-            Welcome to this app! I am{' '}
-            <a
-              target='_blank'
-              rel='noopener noreferrer'
-              className='mx-1 hover:mx-2 transition-all underline hover:capitalize hover:font-[600] duration-500 ease-in-out'
-              href='https://xianzhe.site/'
-            >
-              Scott Cheung
-            </a>
-            . This is a demo version, and some features are unavailable because
+            Welcome to this app! This is a demo version, and some features are unavailable because
             there is no server. The full source code line is below. You can
             explore
             <a
